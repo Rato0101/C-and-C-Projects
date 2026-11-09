@@ -1,0 +1,32 @@
+1- média fluxo -fluxo C  FEITO
+2- viagem carro -fluxo C FEITO
+3- passar de ano -fluxo C 
+4- qual maior -fluxo C FEITO
+5- somar até cair -fluxo C FEITO
+6- soma e segue -fluxo C FEITO
+7- neg ou pos -fluxo C FEITO
+8- par ou imp -fluxo C FEITO
+
+9- Dia da Semana
+10- Quantos anos
+11- Parque de diversão
+12- Encomendas
+13- Vending machine
+14- Vending machine extra
+
+15- Tabuada FEITA
+16- Complicação multiplicada
+17- Bucha e Estica
+18- Primo por progamar bem FEITO
+19- Tradutor de Temperaturas FEITO
+20- Advinha FEITO
+21- CalculaDora FEITO
+22- Final Count Down
+
+outros grupo:
+23- febre FEITO
+24- Bolo da Luísa 
+
+total destes: 24
+total ficheiros : 15
+
